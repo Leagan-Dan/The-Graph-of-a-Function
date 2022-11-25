@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1610387976 source:c:\users\user\desktop\facultate\anul i\semestrul l\ip\seminarii\program testare\main.cpp
+	<string.h>
+	<limits.h>
+	<stdlib.h>
+	<ctype.h>
+	<stdio.h>
+	<iostream>
+	<cstring>
+	<math.h>
+	<bits/stdc++.h>
+	<graphics.h>
+	<cmath>
+
